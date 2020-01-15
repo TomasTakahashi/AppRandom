@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed132738-90e8-4ed1-b5da-17bd7e7a32df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WRRtLPLzpcIozH14l2mBSYCHpu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Usuario" />
+      <module name="AppAleatorioV0.01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Usuario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed132738-90e8-4ed1-b5da-17bd7e7a32df" name="Default Changelist" comment="" />
+      <created>1579110635688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579110635688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="6" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1579123789437">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="6" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579123789437" />
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579120565326">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579120565326" />
+    <state x="369" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579120558557">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="369" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579120558557" />
+    <state x="420" y="96" key="FileChooserDialogImpl" timestamp="1579124640400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="96" key="FileChooserDialogImpl/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579124640400" />
+    <state width="1237" height="75" key="GridCell.Tab.0.bottom" timestamp="1579123445454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="75" key="GridCell.Tab.0.bottom/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579123445454" />
+    <state width="1237" height="75" key="GridCell.Tab.0.center" timestamp="1579123445454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="75" key="GridCell.Tab.0.center/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579123445454" />
+    <state width="1237" height="75" key="GridCell.Tab.0.left" timestamp="1579123445454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="75" key="GridCell.Tab.0.left/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579123445454" />
+    <state width="1237" height="75" key="GridCell.Tab.0.right" timestamp="1579123445454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="75" key="GridCell.Tab.0.right/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579123445454" />
+    <state width="1200" height="184" key="GridCell.Tab.1.bottom" timestamp="1579122569728">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="184" key="GridCell.Tab.1.bottom/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579122569728" />
+    <state width="1200" height="184" key="GridCell.Tab.1.center" timestamp="1579122569727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="184" key="GridCell.Tab.1.center/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579122569727" />
+    <state width="1200" height="184" key="GridCell.Tab.1.left" timestamp="1579122569727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="184" key="GridCell.Tab.1.left/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579122569727" />
+    <state width="1200" height="184" key="GridCell.Tab.1.right" timestamp="1579122569728">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1200" height="184" key="GridCell.Tab.1.right/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579122569728" />
+    <state x="336" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1579110681646">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="165" key="com.intellij.ide.util.TipDialog/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579110681646" />
+    <state x="345" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579120488936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="345" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579120488936" />
+    <state x="411" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579120025045">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="411" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog/1280.-179.1440.860/0.0.1280.680@0.0.1280.680" timestamp="1579120025045" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LanzamientoDado.java</url>
+          <line>12</line>
+          <properties class="LanzamientoDado" method="mostrar_resultado">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
